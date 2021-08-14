@@ -1,0 +1,12 @@
+.comments{
+    width: 50%;
+    margin: auto;
+}
+.comments #comment-box{
+    width: -moz-available;
+}
+.comments #submit-comment{
+    padding: 5px 20px;
+    display: block;
+    margin-left: auto;
+}
